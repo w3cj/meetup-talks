@@ -3,7 +3,7 @@
 * [Security Best Practices with Node.js and Express](https://github.com/w3cj/meetup-talks/blob/master/README.md#security-best-practices-with-nodejs-and-express)
 * [ECMAScript, TC39 and The Future of JavaScript](https://github.com/w3cj/meetup-talks/blob/master/README.md#ecmascript-tc39-and-the-future-of-javascript)
 * [async/await will change your life](https://github.com/w3cj/meetup-talks/blob/master/README.md#asyncawait-will-change-your-life)
-* [Overvue of Vuetify.js](https://github.com/w3cj/meetup-talks/blob/master/README.md#overvue-of-vuetify.js)
+* [Overvue of Vuetify.js](https://github.com/w3cj/meetup-talks/blob/master/README.md#overvue-of-vuetifyjs)
 
 ---
 

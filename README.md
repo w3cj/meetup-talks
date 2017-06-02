@@ -3,6 +3,7 @@
 * [Security Best Practices with Node.js and Express](https://github.com/w3cj/meetup-talks/blob/master/README.md#security-best-practices-with-nodejs-and-express)
 * [ECMAScript, TC39 and The Future of JavaScript](https://github.com/w3cj/meetup-talks/blob/master/README.md#ecmascript-tc39-and-the-future-of-javascript)
 * [async/await will change your life](https://github.com/w3cj/meetup-talks/blob/master/README.md#asyncawait-will-change-your-life)
+* [Overvue of Vuetify.js](https://github.com/w3cj/meetup-talks/blob/master/README.md#overvue-of-vuetify.js)
 
 ---
 
@@ -60,3 +61,21 @@ Topics we will cover:
 
 ### Synopsis:
 We rely heavily on JavaScript's asynchronous nature to get things done; however, async code puts a mental burden on the developer and can lead to the dreaded "callback hell". In this talk I will explore the new async/await feature introduced in ES2017. async/await is THE solution to async control flow, making our code easier to understand and simpler to write. async/await will change your life.
+
+---
+
+## Overvue of Vuetify.js 
+
+### When/Where
+* [Denver Vue.js Meetup - April 24th, 2017](https://www.meetup.com/Denver-Vue-js-Meetup/events/239140427/)
+
+### Resources
+* [Slides](https://git.io/intro-vuetify)
+* [Code Samples](https://git.io/intro-vuetify-code)
+* [Video](https://www.youtube.com/watch?v=HHw3-200PYg)
+
+### Synopsis:
+* Overvue of Material Design
+* Overvue of Vuetify.js
+* Create a Vue app with vue-cli and hookup Vuetify.js
+* Demo of existing Vuetify.js App

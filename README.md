@@ -4,8 +4,8 @@
 * [ECMAScript, TC39 and The Future of JavaScript](https://github.com/w3cj/meetup-talks/blob/master/README.md#ecmascript-tc39-and-the-future-of-javascript)
 * [async/await will change your life](https://github.com/w3cj/meetup-talks/blob/master/README.md#asyncawait-will-change-your-life)
 * [Overvue of Vuetify.js](https://github.com/w3cj/meetup-talks/blob/master/README.md#overvue-of-vuetifyjs)
-* [OverVue of ES2015/next, babel, eslint and Webpack](https://github.com/w3cj/meetup-talks/blob/master/README.md#overvue-of-es2015-next-babel-eslint-and-webpack)
-* [Frontend Face-Off - Vanilla JS MVC](https://github.com/w3cj/meetup-talks/blob/master/README.md#frontend-face-off-vanilla-js-mvc)
+* [OverVue of ES2015/next, babel, eslint and Webpack](https://github.com/w3cj/meetup-talks/blob/master/README.md#overvue-of-es2015next-babel-eslint-and-webpack)
+* [Frontend Face-Off - Vanilla JS MVC](https://github.com/w3cj/meetup-talks/blob/master/README.md#frontend-face-off---vanilla-js-mvc)
 * [An OverVue of Vue.js](https://github.com/w3cj/meetup-talks/blob/master/README.md#an-overvue-of-vuejs)
 
 ---

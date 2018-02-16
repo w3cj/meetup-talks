@@ -4,6 +4,9 @@
 * [ECMAScript, TC39 and The Future of JavaScript](https://github.com/w3cj/meetup-talks/blob/master/README.md#ecmascript-tc39-and-the-future-of-javascript)
 * [async/await will change your life](https://github.com/w3cj/meetup-talks/blob/master/README.md#asyncawait-will-change-your-life)
 * [Overvue of Vuetify.js](https://github.com/w3cj/meetup-talks/blob/master/README.md#overvue-of-vuetifyjs)
+* [OverVue of ES2015/next, babel, eslint and Webpack](https://github.com/w3cj/meetup-talks/blob/master/README.md#overvue-of-es2015-next-babel-eslint-and-webpack)
+* [Frontend Face-Off - Vanilla JS MVC](https://github.com/w3cj/meetup-talks/blob/master/README.md#frontend-face-off-vanilla-js-mvc)
+* [An OverVue of Vue.js](https://github.com/w3cj/meetup-talks/blob/master/README.md#an-overvue-of-vuejs)
 
 ---
 
@@ -64,7 +67,7 @@ We rely heavily on JavaScript's asynchronous nature to get things done; however,
 
 ---
 
-## Overvue of Vuetify.js 
+## Overvue of Vuetify.js
 
 ### When/Where
 * [Denver Vue.js Meetup - April 24th, 2017](https://www.meetup.com/Denver-Vue-js-Meetup/events/239140427/)
@@ -79,3 +82,59 @@ We rely heavily on JavaScript's asynchronous nature to get things done; however,
 * Overvue of Vuetify.js
 * Create a Vue app with vue-cli and hookup Vuetify.js
 * Demo of existing Vuetify.js App
+
+---
+
+## OverVue of ES2015/next, babel, eslint and Webpack
+
+### When/Where
+* [Denver Vue.js Meetup - July 24th, 2017](https://www.meetup.com/Denver-Vue-js-Meetup/events/241754798/)
+
+### Resources
+* [Slides](https://github.com/w3cj/vue-config)
+* [Video](https://www.youtube.com/watch?v=0UFqJEtXzbc)
+
+### Synopsis:
+* Use the latest features of ECMAScript including CommonJS modules, Classes, Arrow Functions, Template Strings, Destructuring and Method Definitions
+* Update the included babel config to use the latest features of es-next
+* Add/remove/update rules in the included .eslintrc
+* Modify/update and add plugins to the included webpack config
+
+---
+
+## Frontend Face-Off - Vanilla JS MVC
+
+### When/Where
+* [Node.js Denver/Boulder/Ft. Collins - July 27th, 2017](https://www.meetup.com/Node-js-Denver-Boulder/events/241178337/)
+
+### Resources
+* [Slides](https://github.com/w3cj/vanilla-js-mvc)
+* [Video](https://www.youtube.com/watch?v=ZBilSF7Oi1k)
+
+### Synopsis:
+* Build a light web app that talks to an API using vanilla javascript MVC style
+
+---
+
+## An OverVue of Vue.js
+
+### When/Where
+* [Develop Denver 2017](https://developdenver.org/talks/72)
+
+### Resources
+* [Slides](https://github.com/w3cj/OverVue)
+* [Video](https://www.youtube.com/watch?v=J3MBtpCqLYg)
+
+### Synopsis:
+
+* What is Vue.js?
+* A Brief History of Vue.js
+* Getting Started
+* Vue.js CLI
+* Vue.js Directives
+* Vue.js Components
+* Vue.js Router
+* Vue.js Reactivity
+* Vue.js State Management
+* Awesome Vue.js
+* Vue.js Community
